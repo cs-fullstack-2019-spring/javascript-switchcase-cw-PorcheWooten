@@ -5,13 +5,14 @@
 
 function main()
 {
+for (var i = 0; i <= 5; i++)
+{
 
     attendence = [];
     console.log(attendence);
     var personCheckingIn = prompt("Are you a teacher, student, or parent checking in");
 
-    switch (personCheckingIn)
-    {
+    switch (personCheckingIn) {
         case "teacher":
             attendence.push("teacher");
             break;
@@ -23,37 +24,7 @@ function main()
             break;
 
     }
-for (var )
+}
 }
 main();
 
-
-// function mainThree(){
-//     shirtsizes  = [];
-//
-//
-//
-//         var expr = prompt("Enter S, M, L, or XL");
-//
-//         switch (expr) {
-//
-//             case "S":
-//                 shirtsizes.push("S");
-//                 break;
-//             case "M":
-//                 shirtsizes.push("M");
-//                 break;
-//             case "L":
-//                 shirtsizes.push("L");
-//                 break;
-//             case "XL":
-//                 shirtsizes.push("XL");
-//                 break;
-//             default:
-//                 console.log("ERROR");
-//         }
-//
-//
-// }
-//
-// mainThree();

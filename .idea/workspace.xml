@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="789a6bf5-60d1-4529-9a37-36da15a56e12" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/P1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/P4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/P4.js" beforeDir="false" afterPath="$PROJECT_DIR$/P4.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/P4.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="570">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -90,10 +87,10 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="107" />
-    <option name="y" value="91" />
-    <option name="width" value="1405" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="98" />
+    <option name="y" value="55" />
+    <option name="width" value="1415" />
     <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -155,12 +152,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="91" width="1405" height="737" extended-state="0" />
+    <frame x="0" y="25" width="1600" height="824" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28550404" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -216,8 +213,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/P4.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="570">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
